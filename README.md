@@ -2,6 +2,8 @@
 ---
 Тестирование мобильных приложений
 ---
+Изучила тестирование веб и мобильных приложений (Android, iOS), работу с Android Studio, Xcode, тестовые фермы, перехват и анализ трафика (Charles Proxy, Fiddler, Proxyman). Практиковалась в создании чек-листов, тест-кейсов, отчетов о дефектах и тестировании API
+____
 [ Чек-лист для приложения Shopping-list](https://docs.google.com/spreadsheets/d/184S7kF6eM5OqGtvP3Rywn23ajhW_fP8EvIFrhlCRqgM/edit?usp=sharing)
 ---
 [Тестовый набор в QASE для приложения Shopping-list](https://github.com/user-attachments/files/18648738/G9-2025-02-03.pdf)
